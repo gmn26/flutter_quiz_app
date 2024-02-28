@@ -18,4 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## preview
 
-https://github.com/gmn26/flutter_quiz_app/blob/main/preview/preview.gif 
+<img src="https://github.com/gmn26/flutter_quiz_app/blob/main/preview/preview.gif" width="64" />
+
